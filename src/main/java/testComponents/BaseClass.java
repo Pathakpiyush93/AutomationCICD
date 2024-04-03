@@ -1,5 +1,6 @@
 package testComponents;
 
+import org.testng.annotations;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
